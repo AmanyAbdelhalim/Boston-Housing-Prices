@@ -1,6 +1,7 @@
-#This projet is part of the:
+
+# This projet is part of the:
 # Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
+
 ## Project: Predicting Boston Housing Prices
 
 ### Goal of the Project
